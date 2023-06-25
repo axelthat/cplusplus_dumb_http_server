@@ -1,0 +1,10 @@
+Language: Cpp
+BasedOnStyle: WebKit
+IndentWidth: 2
+MaxEmptyLinesToKeep: 1
+NamespaceIndentation: All
+ColumnLimit: 0
+PenaltyBreakAssignment: 2
+PenaltyReturnTypeOnItsOwnLine: 200
+PointerAlignment: Left
+SpaceBeforeParens: Never
